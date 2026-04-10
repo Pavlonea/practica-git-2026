@@ -1,7 +1,6 @@
 un texto
 
 otra linea
-1234
-
+sit
 otra linea mas
 se me acaban las idea de texto
